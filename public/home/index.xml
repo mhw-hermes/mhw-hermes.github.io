@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on Michael&#39;s Thoughts on Chemometrics and random stuff</title>
     <link>/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on Michael&#39;s Thoughts on Chemometrics and random stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Academic</title>
+      <title>this needs to be changed</title>
       <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
@@ -28,8 +28,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Biography Michael currently is busy initialising this site and figuring out how things actually work&amp;hellip; please be patient and check back here later if you for soem reason found this&amp;hellip;</description>
     </item>
     
     <item>
@@ -75,17 +74,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
       
       <guid>/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
     </item>
     
     <item>
