@@ -44,22 +44,22 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["example-external-project"]
+# projects = ["example-external-project"]
 
 # Links (optional).
 url_pdf = "http://iopscience.iop.org/article/10.1088/2040-8986/aaa36b/pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
+# url_preprint = "#"
+# url_code = "#"
+#url_dataset = "#"
+#url_project = "#"
+#url_slides = "#"
+#url_video = "#"
+#url_poster = "#"
 url_source = "http://iopscience.iop.org/article/10.1088/2040-8986/aaa36b/meta"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = true
