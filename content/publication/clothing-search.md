@@ -1,9 +1,20 @@
 +++
-title = "Mobile visual clothing search"
-date = "2013-07-01"
+title = "Mid-IR hyperspectral imaging for label-free histopathology and cytology"
+date = "2018-01-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["M Hermes",
+"R Brandstrup Morrish",
+"L Huot",
+"L Meng",
+"S Junaid",
+"J Tomko",
+"G R Lloyd",
+"W T Masselink",
+"P Tidemand-Lichtenberg",
+"C Pedersen",
+"F Palombo",
+"N Stone"]
 
 # Publication type.
 # Legend:
@@ -14,15 +25,15 @@ authors = ["GA Cushen", "MS Nixon"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+publication = "In *Journal of Optics*, Volume 20, Number 2."
+publication_short = "In *JOP*"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "Mid-infrared (MIR) imaging has emerged as a valuable tool to investigate biological samples, such as tissue histological sections and cell cultures, by providing non-destructive chemical specificity without recourse to labels. While feasibility studies have shown the capabilities of MIR imaging approaches to address key biological and clinical questions, these techniques are still far from being deployable by non-expert users. In this review, we discuss the current state of the art of MIR technologies and give an overview on technical innovations and developments with the potential to make MIR imaging systems more readily available to a larger community. The most promising developments over the last few years are discussed here. They include improvements in MIR light sources with the availability of quantum cascade lasers and supercontinuum IR sources as well as the recently developed upconversion scheme to improve the detection of MIR radiation. These technical advances can substantially speed up data acquisition of multispectral or hyperspectral datasets thus providing the end user with vast amounts of data when imaging whole tissue areas of many mm2. Therefore, effective data analysis is of tremendous importance, and progress in method development is discussed with respect to the specific biomedical context."
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,7 +47,7 @@ selected = true
 projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "http://iopscience.iop.org/article/10.1088/2040-8986/aaa36b/pdf"
 url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 url_code = "#"
 url_dataset = "#"
@@ -44,7 +55,7 @@ url_project = "#"
 url_slides = "#"
 url_video = "#"
 url_poster = "#"
-url_source = "#"
+url_source = "http://iopscience.iop.org/article/10.1088/2040-8986/aaa36b/meta"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
